@@ -42,17 +42,17 @@
 
 
 
-[Christopher Caswell on GitHub][here]
+[Christopher Caswell on GitHub](https://www.github.com/christopher-caswell)<br>
 [Christopher Caswell on LinkedIn](https://www.linkedin.com/in/deccaswell)
 <br>
 [Email Me](mailto:christopher.caswell@rocketmail.com)<br>
 
-[Derek Clemens on Github](https://www.github.com/urwithinrange)
+[Derek Clemens on Github](https://www.github.com/urwithinrange)<br>
 [Derek Clemens on LinkedIn](https://www.linkedin.com/in/derek-clemens-tulsa)
 <br>
 [Email Me](mailto:urwithinrange@yahoo.com)<br>
 
-[Hector Lozano on Github](https://www.github.com/hlozano12)
+[Hector Lozano on Github](https://www.github.com/hlozano12)<br>
 [Hector Lozano on LinkedIn]([https://www.linkedin.com/in/](https://www.linkedin.com/in/hector-lozano-profile/))
 <br>
 [Email Me](mailto:HLR8503@gmail.com)<br>
