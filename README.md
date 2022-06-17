@@ -5,7 +5,7 @@
 # An island of fight vs flight
 # and these players are flightless birds
   
-<img src="./assets/imgs/womp.png">
+<img src=".PenguinGameRepo_3/Penguin()/Assets/womp.png">
 </div>
 <div align="left">
 
